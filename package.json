@@ -1,0 +1,14 @@
+{
+  "name": "lk_rede_neural",
+  "description": "Teste com algoritmos de AI",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^4.1.0"
+  }
+}
